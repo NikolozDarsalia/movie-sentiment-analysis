@@ -11,3 +11,6 @@ wheels/
 
 # tokens
 tokens/
+
+# models
+*.pth
